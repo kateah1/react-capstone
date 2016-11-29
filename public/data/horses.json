@@ -1,0 +1,51 @@
+{
+	"animals": [{
+		"id": "horse1",
+		"name": "Spirit",
+		"age": "Foal",
+		"breed": "Mustang",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mustanggelding.jpg/220px-Mustanggelding.jpg"
+	}, {
+		"id": "horse2",
+		"name": "Kenny",
+		"age": "Foal",
+		"breed": "Arabian",
+		"image": "http://www.arabiancentric.com/wp-content/uploads/2014/05/1172-EVERGREEN-0308-810sm1.jpg"
+	}, {
+		"id": "horse3",
+		"name": "Aristo",
+		"age": "Senior",
+		"breed": "Quarter",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Quarter_Horse(REFON)-cleaned.jpg/220px-Quarter_Horse(REFON)-cleaned.jpg"
+	}, {
+		"id": "horse4",
+		"name": "Montego",
+		"age": "Adult",
+		"breed": "Appaloosa",
+		"image": "http://www.cayuseappaloosas.com/images/slide/supermodel-canter.jpg"
+	}, {
+		"id": "horse5",
+		"name": "Winnie",
+		"age": "Foal",
+		"breed": "Mule Mix",
+		"image": "http://i.dailymail.co.uk/i/pix/2013/07/04/article-2355279-0065CD6C00000258-165_634x474.jpg"
+	}, {
+		"id": "horse6",
+		"name": "Teddy",
+		"age": "Adult",
+		"breed": "Percheron",
+		"image": "http://animal-world.com/horses/Draft-Horse-Breeds/images/PercheronWPD_Ap4H.jpg"
+	}, {
+		"id": "horse7",
+		"name": "Apple",
+		"age": "Adult",
+		"breed": "Palomino",
+		"image": "http://www.theequinest.com/images/palomino-9.jpg"
+	}, {
+		"id": "horse8",
+		"name": "Hershey",
+		"age": "Adult",
+		"breed": "Miniature",
+		"image": "http://static.boredpanda.com/blog/wp-content/uploads/2015/05/tiny-horses-9__605.jpg"
+	}]
+}

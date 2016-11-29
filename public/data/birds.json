@@ -1,0 +1,51 @@
+{
+	"animals": [{
+		"id": "bird1",
+		"name": "Pitri",
+		"age": "Baby",
+		"breed": "Parakeet",
+		"image": "http://cf.ltkcdn.net/small-pets/images/std/171670-407x295-Pet-parakeet-eating-millet.jpg"
+	}, {
+		"id": "bird2",
+		"name": "Coockoo",
+		"age": "Senior",
+		"breed": "Parrot",
+		"image": "http://www.findpetboarding.com/boardingimages/boarding_1072.jpg"
+	}, {
+		"id": "bird3",
+		"name": "Mary",
+		"age": "Senior",
+		"breed": "Lovebird",
+		"image": "https://s-media-cache-ak0.pinimg.com/564x/de/a0/e0/dea0e0c4405a10bffd9125736c57be6c.jpg"
+	}, {
+		"id": "bird4",
+		"name": "Lucky",
+		"age": "Adult",
+		"breed": "Cockatiel",
+		"image": "https://i.ytimg.com/vi/28Fn1FGntck/maxresdefault.jpg"
+	}, {
+		"id": "bird5",
+		"name": "Francis",
+		"age": "Adult",
+		"breed": "Dove Mix",
+		"image": "http://animal-world.com/encyclo/birds/doves_pigeons/Images/RingneckTangerineWBDo_P1108.jpg"
+	}, {
+		"id": "bird6",
+		"name": "London",
+		"age": "Adult",
+		"breed": "Parrot",
+		"image": "http://weknowyourdreams.com/images/parrot/parrot-05.jpg"
+	}, {
+		"id": "bird7",
+		"name": "Feldman",
+		"age": "Adult",
+		"breed": "Chicken",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Chicken_-_melbourne_show_2005.jpg"
+	}, {
+		"id": "bird8",
+		"name": "Tiel",
+		"age": "Adult",
+		"breed": "Cockatiel",
+		"image": "http://2.imimg.com/data2/BE/SY/MY-3715576/cockatiels-bird-500x500.jpg"
+	}]
+}

@@ -1,0 +1,63 @@
+{
+	"animals": [{
+		"id": "dog1",
+		"name": "Fido",
+		"age": "Puppy",
+		"breed": "Pitbull",
+		"image": "http://www.melovemypet.com/wp-content/uploads/2014/05/Bluenosepitbullpuppy1.jpg"
+	}, {		
+		"id": "dog2",
+		"name": "Spot",
+		"age": "Senior",
+		"breed": "Dachshund/Chihuahua Mix",
+		"image": "https://s3.amazonaws.com/pet-uploads.adoptapet.com/8/0/e/97561329.jpg"
+	}, {
+		"id": "dog3",
+		"name": "Benny",
+		"age": "Puppy",
+		"breed": "Labrador Retriever",
+		"image": "http://www.dogwallpapers.net/wallpapers/lovely-labrador-retriever-puppy-wallpaper.jpg"
+	}, {
+		"id": "dog4",
+		"name": "Aragorn",
+		"age": "Adult",
+		"breed": "Labradoodle",
+		"image": "http://r.ddmcdn.com/s_f/o_1/APL/uploads/2014/04/125595528862912917402301197_Labradoodle.jpg"
+	}, {
+		"id": "dog5",
+		"name": "Eleven",
+		"age": "Puppy",
+		"breed": "Labrador Retriever/Husky Mix",
+		"image": "http://www.labrador-retriever.club/images/labrador-retriever/labrador-retriever-with-husky-mix.png"
+	}, {
+		"id": "dog6",
+		"name": "Kal",
+		"age": "Senior",
+		"breed": "Hound/Labrador Retriever Mix",
+		"image": "http://zoonarea.com/wp-content/uploads/parser/labrador-retriever-and-hound-mix-1.jpg"
+	}, {
+		"id": "dog7",
+		"name": "Buffy",
+		"age": "Puppy",
+		"breed": "Hound Mix",
+		"image": "https://featuredcreature.com/wp-content/uploads/2015/04/dsc00086.jpg"
+	}, {
+		"id": "dog8",
+		"name": "Marah",
+		"age": "Adult",
+		"breed": "Cocker Spaniel",
+		"image": "http://www.dogbreedinfo.com/images14/Cockerblack.jpg"
+	}, {
+		"id": "dog9",
+		"name": "Suki",
+		"age": "Adult",
+		"breed": "German Shepherd",
+		"image": "http://www.yourpurebredpuppy.com/dogbreeds/photos-EFGH/germanshepherdsf3.jpg"
+	}, {
+		"id": "dog10",
+		"name": "Katara",
+		"age": "Puppy",
+		"breed": "Pitbull",
+		"image": "http://cdn-03.belfasttelegraph.co.uk/incoming/article34913932.ece/b2315/AUTOCROP/w620/Ruby2.jpg"
+	}]
+}	

@@ -1,0 +1,51 @@
+{
+	"animals": [{
+		"id": "cat1",
+		"name": "Thor",
+		"age": "Kitten",
+		"breed": "Calico",
+		"image": "http://ind5.ccio.co/ME/MD/W3/154459462189496251xbYUiyqoc.jpg"
+	}, {
+		"id": "cat2",
+		"name": "Lucy",
+		"age": "Adult",
+		"breed": "Siamese",
+		"image": "http://cf.ltkcdn.net/cats/images/std/64051-307x213-ChinChin2Sm.jpg"
+	}, {
+		"id": "cat3",
+		"name": "Fred",
+		"age": "Senior",
+		"breed": "Bengal",
+		"image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Freddie4.jpg"
+	}, {
+		"id": "cat4",
+		"name": "Susan",
+		"age": "Adult",
+		"breed": "Persian",
+		"image": "https://s-media-cache-ak0.pinimg.com/736x/19/02/03/190203b6852f387ed6cabdcc306e6e87.jpg"
+	}, {
+		"id": "cat5",
+		"name": "Mila",
+		"age": "Adult",
+		"breed": "American Shorthair",
+		"image": "http://www.cat-breeds-encyclopedia.com/images/American-shorthair-portrait.jpg"
+	}, {
+		"id": "cat6",
+		"name": "Snickers",
+		"age": "Senior",
+		"breed": "Brazilian Shorthair",
+		"image": "https://meow-meow.jp/wp-content/uploads/2016/09/Brazilian_Shorthair_cat_Jean_Grey_6a.img_assist_custom.jpg"
+	}, {
+		"id": "cat7",
+		"name": "Luna",
+		"age": "Kitten",
+		"breed": "Luna",
+		"image": "http://ragdollkittenscats.com/Portals/0/EstebanWeb.jpg"
+	}, {
+		"id": "cat8",
+		"name": "Boots",
+		"age": "Adult",
+		"breed": "Maine Coon",
+		"image": "http://cdn1-www.cattime.com/assets/uploads/gallery/maine-coon-cats-and-kittens/maine-coon-cats-and-kittens-1.jpg"
+	}]
+}
